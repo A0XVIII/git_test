@@ -1,1 +1,2 @@
 So, i started to learn a git
+I will be frontend dev
